@@ -1,5 +1,5 @@
-CAMS - Axial Directory Structure
-Welcome to the CAMS/axial directory. This directory is organized to facilitate the use of the CAM visual explanations for axial views. Below is a guide to help you understand and navigate the structure.
+CAMS - Directory Structure
+Welcome to the CAMS directory. This directory is organized to facilitate the use of the CAM visual explanations for different cases and views. Below is a guide to help you understand and navigate the structure.
 
 Directory Structure:
 CAMS/
