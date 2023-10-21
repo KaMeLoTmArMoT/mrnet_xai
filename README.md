@@ -62,7 +62,7 @@ Understanding the Display: The top section of the interface displays information
 Exiting: To exit the program, simply press the Esc key.
 
 # Examples
-![images\TP.png](images\TP.png)
-![images\TN.png](images\TN.png)
-![(images\FP.png](images\FP.png)
-![images\FN.png](images\FN.png)
+<img src="./images/TP.png">
+<img src="./images/TN.png">
+<img src="./images/FP.png">
+<img src="./images/FN.png">
